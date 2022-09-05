@@ -1,4 +1,7 @@
-### Hi there 👋
+### Kang SIN GYU 👋
+![React](https://img.shields.io/badge/React-007396.svg?&style=for-the-badge&logo=React&logoColor=white)
+
+
 
 <!--
 **singyuKang/singyuKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
