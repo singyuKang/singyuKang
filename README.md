@@ -41,6 +41,13 @@
 <br />
 <br />
 
+![SinGyuKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=singyuKang&show_icons=true&theme=tokyonight)
+
+
+
+<br />
+<br />
+
 
 
 
