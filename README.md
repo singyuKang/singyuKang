@@ -3,6 +3,10 @@
 <br />
 <br />
 
+# 💬 My Blog
+<a href="https://singyukang.tistory.com/"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<br />
+<br />
 
 # 🔭 Studying
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
