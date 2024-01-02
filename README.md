@@ -58,7 +58,7 @@
 <br />
 <br />
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skj1129)](https://solved.ac/skj1129)
 ![SinGyuKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=singyuKang&show_icons=true&theme=tokyonight)
 
 
