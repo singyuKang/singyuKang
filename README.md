@@ -3,6 +3,14 @@
 <br />
 <br />
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skj1129)](https://solved.ac/skj1129)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singyuKang&layout=compact&theme=tokyonight)
+
+<br />
+<br />
+
+
 # 💬 My Blog
 <a href="https://singyukang.tistory.com/"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <br />
@@ -58,19 +66,20 @@
 <br />
 <br />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skj1129)](https://solved.ac/skj1129)
-![SinGyuKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=singyuKang&show_icons=true&theme=tokyonight)
+
 
 
 
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singyuKang&layout=compact&theme=tokyonight)
+
 
 
 
 <!--
+![SinGyuKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=singyuKang&show_icons=true&theme=tokyonight)
+
 **singyuKang/singyuKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
